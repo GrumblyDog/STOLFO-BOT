@@ -1,1 +1,1 @@
-worker: astolfobot.py
+worker: python bot.py
