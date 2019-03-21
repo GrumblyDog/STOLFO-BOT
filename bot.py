@@ -26,4 +26,4 @@ async def on_ready():
 async def on_message(message):
     if message.content.startswith('!praiseastolfo'):
         await client.send_message(message.channel,'UwU <@%s>'  %(message.author.id))
-client.run('BOT_TOKEN')
+client.run('NTU4MDMzMTkzNTc2NTYyNjg4.D3V9HQ.Dn7CXjdyOTUODpFvk812lt5U2FE')
